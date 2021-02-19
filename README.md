@@ -13,3 +13,5 @@ Libraries:
 * matplotlib
 * numpy
 * Pytorch
+# The result of training
+![Image alt](https://github.com/pvladimir1989/face_generator/blob/main/Generated%20faces.png)
